@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc04"
+  },
+  "id": 746150,
+  "Date": {
+    "$date": "2016-05-25T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "Athelstaneford",
+  "Site Height": 175,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 18,
+  "Power(kW)": 1000,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.974965,
+  "Long": -2.776943
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc05"
+  },
+  "id": 746151,
+  "Date": {
+    "$date": "2000-10-10T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "Black Hill",
+  "Site Height": 275,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 155,
+  "Power(kW)": 2399.999,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.860005,
+  "Long": -3.873572
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc06"
+  },
+  "id": 746152,
+  "Date": {
+    "$date": "2007-05-02T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "Braid Hills",
+  "Site Height": 202,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 43,
+  "Power(kW)": 977.237,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.912262,
+  "Long": -3.200598
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc07"
+  },
+  "id": 746153,
+  "Date": {
+    "$date": "2000-10-11T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "CRAIGKELLY",
+  "Site Height": 181,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 78,
+  "Power(kW)": 5999.997,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 56.071791,
+  "Long": -3.233186
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc08"
+  },
+  "id": 746154,
+  "Date": {
+    "$date": "2016-05-12T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "Earls Hill - DAB",
+  "Site Height": 410,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 49,
+  "Power(kW)": 740,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 56.071792,
+  "Long": -4.055753
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc09"
+  },
+  "id": 746155,
+  "Date": {
+    "$date": "2018-03-28T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "EDINBURGH CASTLE",
+  "Site Height": 121,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 18,
+  "Power(kW)": 27.2,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.948651,
+  "Long": -3.200764
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0a"
+  },
+  "id": 746157,
+  "Date": {
+    "$date": "2000-10-12T00:00:00.000Z"
+  },
+  "Ensemble": "Edinburgh",
+  "EID": "C18A",
+  "Site": "PENICUIK",
+  "Site Height": 248,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 43,
+  "Power(kW)": 2500,
+  "Serv Label1": "Forth One",
+  "Serv Label2": "FORTH 2",
+  "Serv Label3": "Heart",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.819142,
+  "Long": -3.194377
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0b"
+  },
+  "id": 746233,
+  "Date": {
+    "$date": "2001-05-15T00:00:00.000Z"
+  },
+  "Ensemble": "Leeds",
+  "EID": "C18F",
+  "Site": "Beecroft Hill",
+  "Site Height": 149,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 44,
+  "Power(kW)": 977.237,
+  "Serv Label1": "Grt Hits Leeds",
+  "Serv Label2": "Smooth UK",
+  "Serv Label3": "Absolute  C Rock",
+  "Serv Label4": "Magic Chilled",
+  "Serv Label10": "Absolute Country",
+  "Lat": 53.811543,
+  "Long": -1.641253
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0c"
+  },
+  "id": 746234,
+  "Date": {
+    "$date": "2013-05-13T00:00:00.000Z"
+  },
+  "Ensemble": "Leeds",
+  "EID": "C18F",
+  "Site": "Emley Moor",
+  "Site Height": 256,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 271,
+  "Power(kW)": 5000,
+  "Serv Label1": "Grt Hits Leeds",
+  "Serv Label2": "Smooth UK",
+  "Serv Label3": "Absolute  C Rock",
+  "Serv Label4": "Magic Chilled",
+  "Serv Label10": "Absolute Country",
+  "Lat": 53.611985,
+  "Long": -1.66456
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0d"
+  },
+  "id": 746236,
+  "Date": {
+    "$date": "2001-11-14T00:00:00.000Z"
+  },
+  "Ensemble": "Leeds",
+  "EID": "C18F",
+  "Site": "Morley",
+  "Site Height": 120,
+  "Freq.": 229.072,
+  "Block": "12D",
+  "Aerial height(m)": 59,
+  "Power(kW)": 1000,
+  "Serv Label1": "Grt Hits Leeds",
+  "Serv Label2": "Smooth UK",
+  "Serv Label3": "Absolute  C Rock",
+  "Serv Label4": "Magic Chilled",
+  "Serv Label10": "Absolute Country",
+  "Lat": 53.736807,
+  "Long": -1.572457
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0e"
+  },
+  "id": 746581,
+  "Date": {
+    "$date": "2000-11-21T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Burnhope",
+  "Site Height": 240,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 227,
+  "Power(kW)": 4379.999,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.8219,
+  "Long": -1.714848
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc0f"
+  },
+  "id": 746582,
+  "Date": {
+    "$date": "2017-11-23T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Cale Cross House",
+  "Site Height": 15,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 62,
+  "Power(kW)": 300,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.969789,
+  "Long": -1.608675
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc10"
+  },
+  "id": 746583,
+  "Date": {
+    "$date": "2016-07-27T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "DURHAM",
+  "Site Height": 100,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 27,
+  "Power(kW)": 300,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.775175,
+  "Long": -1.590656
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc11"
+  },
+  "id": 746584,
+  "Date": {
+    "$date": "2000-11-15T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Fenham",
+  "Site Height": 120,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 35,
+  "Power(kW)": 1499.999,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.978039,
+  "Long": -1.662966
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc12"
+  },
+  "id": 746585,
+  "Date": {
+    "$date": "2016-07-27T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Hendon",
+  "Site Height": 10,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 42,
+  "Power(kW)": 800,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.893895,
+  "Long": -1.363068
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc13"
+  },
+  "id": 746586,
+  "Date": {
+    "$date": "2016-09-19T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Kenton TE",
+  "Site Height": 120,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 21,
+  "Power(kW)": 100,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.001052,
+  "Long": -1.665743
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc14"
+  },
+  "id": 746587,
+  "Date": {
+    "$date": "2016-04-26T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "MORPETH",
+  "Site Height": 60,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 50,
+  "Power(kW)": 1100.001,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.171858,
+  "Long": -1.659136
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc15"
+  },
+  "id": 746588,
+  "Date": {
+    "$date": "2016-05-26T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "NEWTON",
+  "Site Height": 165,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 45,
+  "Power(kW)": 600,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.982447,
+  "Long": -1.945593
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc16"
+  },
+  "id": 746589,
+  "Date": {
+    "$date": "2016-08-25T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Peppermoor Farm",
+  "Site Height": 107,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 27,
+  "Power(kW)": 1199.999,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.430165,
+  "Long": -1.647593
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc17"
+  },
+  "id": 746590,
+  "Date": {
+    "$date": "2016-04-05T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "SHOTLEYFIELD",
+  "Site Height": 199,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 53,
+  "Power(kW)": 300,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 54.873774,
+  "Long": -1.899456
+},
+{
+  "_id": {
+    "$oid": "64da1ddaa7766eeeef09bc18"
+  },
+  "id": 746592,
+  "Date": {
+    "$date": "2016-06-30T00:00:00.000Z"
+  },
+  "Ensemble": "Tyne & Wear",
+  "EID": "C188",
+  "Site": "Whitley Bay",
+  "Site Height": 40,
+  "Freq.": 220.352,
+  "Block": "11C",
+  "Aerial height(m)": 26,
+  "Power(kW)": 100,
+  "Serv Label1": "METRO Radio",
+  "Serv Label2": "Grt Hits N East",
+  "Serv Label3": "Smooth Radio",
+  "Serv Label4": "HITS RADIO UK",
+  "Serv Label10": "Magic Soul",
+  "Lat": 55.035277,
+  "Long": -1.453767
+}]
